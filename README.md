@@ -5,6 +5,8 @@
 - Cloner le projet sur son ordinateur
 - Se placer sur le dossier
 - `npm install`
+- `npx prisma generate`
+- `npx prisma migrate dev`
 - `npm run start` pour démarrer le serveur
 
 Tu devrais avoir le message suivant sur ton terminal
