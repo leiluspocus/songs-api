@@ -10,7 +10,7 @@
 Tu devrais avoir le message suivant sur ton terminal
 
 ```shell
-> node app.js
+> npm run start
 Example app listening on port 8888
 ```
 
